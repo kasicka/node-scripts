@@ -1,1 +1,1 @@
-# node-scripts
+scripts for nodejs packaging
